@@ -20,8 +20,8 @@ subtitle: "Golden Communities"
 # root of your server.
 #baseurl: "" # the subpath of your site
 
-baseurl: "http://smartrobot.github.io/golden"
-url: "http://smartrobot.github.io/golden"
+baseurl: "http://smartrobot.github.io/golden/"
+url: "http://smartrobot.github.io/golden/"
 
 
 # Build settings
