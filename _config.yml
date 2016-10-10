@@ -20,9 +20,8 @@ subtitle: "Golden Communities"
 # root of your server.
 #baseurl: "" # the subpath of your site
 detach:  false
-port:    4000
-host:    127.0.0.1
-#baseurl: " " # does not include hostname
+baseurl: "http://smartrobot.github.io/golden"
+url: "http://smartrobot.github.io/golden"
 show_dir_listing: false
 
 # Build settings
