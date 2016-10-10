@@ -1,0 +1,39 @@
+exclude:
+  - "/vendor/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "LICENSE.md"
+  - "*.gemspec"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+
+# Site settings
+title: McDowell Mountain Ranch
+subtitle: "Golden Communities"
+# Base URL of site. It should always start with a slash,
+# and never end with a slash. Set it to a blank value if hosting at the
+# root of your server.
+#baseurl: "" # the subpath of your site
+detach:  false
+port:    4000
+host:    127.0.0.1
+#baseurl: " " # does not include hostname
+show_dir_listing: false
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+incremental: false
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+# Google analytics
+# ga_tracking_id: "UA-XXXX-1"
+
+# Category descriptions (for archive pages)
+descriptions:
