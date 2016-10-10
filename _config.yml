@@ -19,10 +19,10 @@ subtitle: "Golden Communities"
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 #baseurl: "" # the subpath of your site
-detach:  false
+
 baseurl: "http://smartrobot.github.io/golden"
 url: "http://smartrobot.github.io/golden"
-show_dir_listing: false
+
 
 # Build settings
 markdown: kramdown
