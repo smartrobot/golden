@@ -15,8 +15,8 @@ keep_files:
 # Site settings
 title: McDowell Mountain Ranch
 subtitle: "Golden Communities"
-baseurl: "https://smartrobot.github.io/golden/"
-url: "https://smartrobot.github.io/golden/"
+baseurl: ""
+url: ""
 enableTags: true
 tagarray: []
 
