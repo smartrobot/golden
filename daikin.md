@@ -57,5 +57,3 @@ calloutimg: pic02.jpg
 ### When you want reliable and efficient heating and cooling, you need a company that specializes in Daikin’s inverter technology—that’s where we come in. At AC by J, we’ve been providing residents in the Phoenix area with consistent comfort year in and year out thanks to Daikin.
 
 <br>
-
-#### [Contact](/#contact) - AC by J today to learn more about the benefits of Daikin heating and cooling products!

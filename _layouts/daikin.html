@@ -1,18 +1,38 @@
 <!DOCTYPE html>
+<style>
+.calloutac {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #fff;
+
+
+    background: url({{ site.baseurl }}/img/daikin.png) no-repeat;
+    background-position: 0% 0%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+</style>
 <html>
   <head>
     {% include head.html %}
   </head>
   <body>
     {% include nav.html %}
-
-    {% include callout.html %}
+    <aside class="calloutac">
+        <div class="text-vertical-center">
+        </div>
+    </aside>
     <section id="daikin" class="services">
+
         <div class="container">
+
     {{ content }}
   </div>
 </section>
-<section class="bg-primary">
+<section >
     {% include footer.html %}
 </section>
     </body>
