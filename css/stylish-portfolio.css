@@ -53,6 +53,11 @@ body {
     font-weight: 700;
 }
 
+h1, .h1 {
+    font-size: 46px;
+}
+
+
 /* Custom Button Styles */
 
 .btn-dark {
@@ -175,6 +180,7 @@ hr.small {
 /* Header */
 
 .header {
+
     display: table;
     position: relative;
     width: 100%;
@@ -184,12 +190,13 @@ hr.small {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    margin-top: 100px;
 }
 
 /* About */
 
 .about {
-    padding: 50px 0;
+    padding: 0px 0;
 }
 
 /* Services */
@@ -291,4 +298,12 @@ footer {
   position: fixed;
   bottom: 5px;
   right: 5px;
+}
+.daikin{
+  margin-top: 30px;
+}
+.nextdoor{
+  height: 100px;
+  width: 100%;
+  background-color: #18965c;
 }
